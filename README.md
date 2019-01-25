@@ -53,3 +53,11 @@ To discuss suggestions and criticisms, you can:
 - [Make a Pull request](https://help.github.com/articles/about-pull-requests/)
 - Talk via e-mail:
   - with the maintainer: Emerson Rocha <rocha@ieee.org>.
+
+# License
+
+[![Public Domain](https://i.creativecommons.org/p/zero/1.0/88x31.png)](UNLICENSE)
+
+To the extent possible under law, [Emerson Rocha](https://github.com/fititnt)
+has waived all copyright and related or neighboring rights to this work to
+[Public Domain](UNLICENSE).
