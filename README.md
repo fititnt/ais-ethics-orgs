@@ -26,6 +26,7 @@ _Do you have suggestions to add? [See how to contribute](#contributions)._
 
 | Country | City | Formation | Field/Focus | Name |
 | --- | --- | --- | --- | --- |
+| China | Beijing | 2007 [(?)](https://www.tencent.com/en-us/articles/80155.html) | | **[Tencent Research Institute](http://www.tisi.org/)** <sup>[review-lang](#review-lang)</sup> <br>Original: <strong><em lang="zh">腾讯研究院</em></strong> <sup>[review-lang](#review-lang)</sup> <br> _Extra: Wikipedia_ |
 | Japan | Shinjuku, Tokyo | 1986 | | **[Japanese Society for Artificial Intelligence (JSAI)](http://www.ai-gakkai.or.jp)** <br>Original: <strong><em lang="jp">人工知能学会</em></strong> <sup>[review-lang](#review-lang)</sup> <br> _Extra: [Facebook](https://www.facebook.com/aigakkai); [Twitter](https://twitter.com/ai_gakkai); [Youtube](https://www.youtube.com/channel/UCcwBbkwoc6utubVho0Jlr2w); [Wikipedia](https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E5%AD%A6%E4%BC%9A)_ |
 
 _Do you have suggestions to add? [See how to contribute](#contributions)._
@@ -36,6 +37,7 @@ _Do you have suggestions to add? [See how to contribute](#contributions)._
 | --- | --- | --- | --- | --- |
 | Netherlands | Eindhoven | 2007 | | **[4TU.Centre for Ethics and Technology (4TU.Ethics)](https://ethicsandtechnology.eu/)** <br> _Extra: [Twitter](https://twitter.com/4tuethics); [Facebook](https://www.facebook.com/4TUEthics-1211139425660661/); Wikipedia_ |
 | England | Cambridge | 2012 | Existential risks | **[Centre for the Study of Existential Risk (CSER)](https://www.cser.ac.uk/)** <br> _Extra: [Facebook](https://www.facebook.com/CSERCambridge/); [Twitter](https://twitter.com/CSERCambridge); [Wikipedia](https://en.wikipedia.org/wiki/Centre_for_the_Study_of_Existential_Risk); [Youtube](https://www.youtube.com/channel/UCoMIcy9-8QxuhhRSwc9cVQg)_ |
+| Italy | | | | **[Artificial Intelligence task force (AI-Gov)](https://ia.italia.it/en/)** <br> _Extra: [Facebook](https://www.facebook.com/AgIDGovIT/) <sup>[l-gen](#l-gen)</sup>; [Twitter](https://twitter.com/AgIDgov) <sup>[l-gen](#l-gen)</sup>;_ |
 | Netherlands | The Hague | 2015-12-07 | Roboethics | **[Foundation for Responsible Robotics (FRR)](https://responsiblerobotics.org/)** <br> _Extra: [Twitter](https://twitter.com/resprobotics); [Wikipedia](https://en.wikipedia.org/wiki/Foundation_for_Responsible_Robotics)_ |
 
 _Do you have suggestions to add? [See how to contribute](#contributions)._
@@ -63,6 +65,7 @@ _Do you have suggestions to add? [See how to contribute](#contributions)._
 ## Other
 
 - http://www.aiandsociety.org/
+- https://www.unog.ch/80256EE600585943/(httpPages)/4F0DEF093B4860B4C1257180004B1B30?OpenDocument
 
 ## Considerar adicionar esses tambem em breve
 
@@ -86,6 +89,9 @@ _Do you have suggestions to add? [See how to contribute](#contributions)._
 
 - <b id="review-lang">review-lang</b>: This term requires review of a native
   speaker or a official source that confirms. See  [ais-ethics-orgs/issues/1](https://github.com/fititnt/ais-ethics-orgs/issues/1)
+- <b id="l-gen">l-gen</b>: The link may be is more generic (like from a big
+  area of government or a university) and not focused on the organization cited
+  on this document.
 
 # FAQ
 
