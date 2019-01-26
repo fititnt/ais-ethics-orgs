@@ -30,6 +30,8 @@ _Do you have suggestions to add? [See how to contribute](#contributions)._
 
 | Country | City | Formation | Field/Focus | Name |
 | --- | --- | --- | --- | --- |
+| Netherlands | Eindhoven | 2007 | | **[4TU.Centre for Ethics and Technology (4TU.Ethics)](https://ethicsandtechnology.eu/)** <br> _Extra: [Twitter](https://twitter.com/4tuethics); [Facebook](https://www.facebook.com/4TUEthics-1211139425660661/); Wikipedia_ |
+| England | Cambridge | 2012 | Existential risks | **[Centre for the Study of Existential Risk (CSER)](https://www.cser.ac.uk/)** <br> _Extra: [Facebook](https://www.facebook.com/CSERCambridge/); [Twitter](https://twitter.com/CSERCambridge); [Wikipedia](https://en.wikipedia.org/wiki/Centre_for_the_Study_of_Existential_Risk); [Youtube](https://www.youtube.com/channel/UCoMIcy9-8QxuhhRSwc9cVQg)_ |
 | Netherlands | The Hague | 2015-12-07 | Roboethics | **[Foundation for Responsible Robotics (FRR)](https://responsiblerobotics.org/)** <br> _Extra: [Twitter](https://twitter.com/resprobotics); [Wikipedia](https://en.wikipedia.org/wiki/Foundation_for_Responsible_Robotics)_ |
 
 _Do you have suggestions to add? [See how to contribute](#contributions)._
@@ -61,6 +63,14 @@ _Do you have suggestions to add? [See how to contribute](#contributions)._
 ## Considerar adicionar esses tambem em breve
 
 - https://intelligence.org/
+
+- International Center for Information Ethics
+  - https://www.i-c-i-e.org/
+  - https://www.facebook.com/ICIEInfoEthics
+  - https://twitter.com/ICIEInfoEthics
+  - "Information ethics"
+  - (No Wikipedia)
+  - (Do not specify a headquarter)
 -->
 
 
