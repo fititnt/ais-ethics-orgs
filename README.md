@@ -4,7 +4,7 @@ Artificial Intelligence and Autonomous Systems (A/IS).**
 
 _See also:
 [ais-ethics](https://github.com/fititnt/ais-ethics) |
-[ais-ethics-groups](https://github.com/fititnt/ais-ethics-groups) |
+[ais-ethics-open-groups](https://github.com/fititnt/ais-ethics-open-groups) |
 ais-ethics-orgs |
 [ais-ethics-standards](https://github.com/fititnt/ais-ethics-standards)_
 
@@ -71,16 +71,36 @@ _Do you have suggestions to add? [See how to contribute](#contributions)._
   - "Information ethics"
   - (No Wikipedia)
   - (Do not specify a headquarter)
+
+## Souces of info
+- https://en.wikipedia.org/wiki/Category:Ethics_organizations
+
 -->
 
+# FAQ
+
+- **Why the _name-of-the-organization_ is listed on a specific region and not as "international"?**
+
+The adress used is headquarters of the organization. The same organization may
+appear more than once if there is a _large_ enough branch on a different
+continent. [Suggestions of missing extra branches are welcome!](#contributions).
+
+- **Can I do ... with this list?**
+
+Yes, the [public domain](#license) license allow this, even without asking
+first if you can do or not. If is a improvement to this main list, see
+[Contributions](#contributions).
 
 # Contributions
-To discuss suggestions and criticisms, you can:
+Ways to contribute with suggestions, critics, etc:
 
 - [Open a issue](https://help.github.com/articles/creating-an-issue/)
 - [Make a Pull request](https://help.github.com/articles/about-pull-requests/)
 - Talk via e-mail:
   - with the maintainer: Emerson Rocha <rocha@ieee.org>.
+
+One **help need here is to discover organizations in regions of the world
+with much less listed options**.
 
 # License
 
