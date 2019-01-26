@@ -24,6 +24,10 @@ _Do you have suggestions to add? [See how to contribute](#contributions)._
 
 ## Asia
 
+| Country | City | Formation | Field/Focus | Name |
+| --- | --- | --- | --- | --- |
+| Japan | Shinjuku, Tokyo | 1986 | | **[Japanese Society for Artificial Intelligence (JSAI)](http://www.ai-gakkai.or.jp)** <br>Original: <strong><em lang="jp">人工知能学会</em></strong> <sup>[review-lang](#review-lang)</sup> <br> _Extra: [Facebook](https://www.facebook.com/aigakkai); [Twitter](https://twitter.com/ai_gakkai); [Youtube](https://www.youtube.com/channel/UCcwBbkwoc6utubVho0Jlr2w); [Wikipedia](https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E5%AD%A6%E4%BC%9A)_ |
+
 _Do you have suggestions to add? [See how to contribute](#contributions)._
 
 ## Europe
@@ -76,6 +80,12 @@ _Do you have suggestions to add? [See how to contribute](#contributions)._
 - https://en.wikipedia.org/wiki/Category:Ethics_organizations
 
 -->
+
+
+# Footnotes
+
+- <b id="review-lang">review-lang</b>: This term requires review of a native
+  speaker or a official source that confirms. See  [ais-ethics-orgs/issues/1](https://github.com/fititnt/ais-ethics-orgs/issues/1)
 
 # FAQ
 
