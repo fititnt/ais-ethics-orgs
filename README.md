@@ -12,7 +12,9 @@ ais-ethics-orgs |
 
 Organizations are listed according to their headquarters, even if they operate
 worldwide. The same organization may appear more than once if there is a
-large enough branch on a different continent.
+large enough branch on a different continent. The _Field/Focus_ It may contain
+extra terms , but in general, the term "artificial intelligence" and "ethics"
+will not be displayed since all mentioned here must work with both at some level.
 
 ## Africa
 
@@ -46,9 +48,11 @@ _Do you have suggestions to add? [See how to contribute](#contributions)._
 
 | Country | City | Formation | Field/Focus | Name |
 | --- | --- | --- | --- | --- |
-| USA | Palo Alto, CA | 1979 | Articial Intelligence | **[Association for the Advancement of Artificial Intelligence (AAAI)](http://www.aaai.org/)** <br> _Extra: [Facebook](https://www.facebook.com/AAAI-Association-for-the-Advancement-of-Artificial-Intelligence-36428078710/); [Twitter](https://twitter.com/RealAAAI); [Wikipedia](https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence)_ |
+| USA | Palo Alto, CA | 1979 | | **[Association for the Advancement of Artificial Intelligence (AAAI)](http://www.aaai.org/)** <br> _Extra: [Facebook](https://www.facebook.com/AAAI-Association-for-the-Advancement-of-Artificial-Intelligence-36428078710/); [Twitter](https://twitter.com/RealAAAI); [Wikipedia](https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence)_ |
 | USA | Berkeley, CA | 2000 | Friendly Artificial Intelligence | **[Machine Intelligence Research Institute (MIRI)](https://intelligence.org/)** <br> _Extra: [Facebook](https://www.facebook.com/MachineIntelligenceResearchInstitute); [Twitter](https://twitter.com/MIRIBerkeley); [Wikipedia](https://en.wikipedia.org/wiki/Machine_Intelligence_Research_Institute)_ |
+| USA | San Francisco, CA | 2015-12-11 | Friendly Artificial Intelligence | **[OpenAI](https://openai.com/)** <br> _Extra: [Facebook](https://www.facebook.com/openai.research/); [Twitter](https://twitter.com/openai); [Wikipedia](https://en.wikipedia.org/wiki/OpenAI)_ |
 | USA | San Francisco, CA | 2016-09-28 | | **[Partnership on AI](https://www.partnershiponai.org/)** <br> _Extra: [Facebook](https://www.facebook.com/partnershipai); [Twitter](https://twitter.com/partnershipai); [Wikipedia](https://en.wikipedia.org/wiki/Partnership_on_AI)_ |
+| USA | Princeton, NJ | | Political Theory | **[Princeton University Dialogues on AI and Ethics](https://aiethics.princeton.edu/about/)** <br> _Extra: Wikipedia_ |
 
 _Do you have suggestions to add? [See how to contribute](#contributions)._
 
@@ -60,7 +64,6 @@ _Do you have suggestions to add? [See how to contribute](#contributions)._
 
 _Do you have suggestions to add? [See how to contribute](#contributions)._
 
-
 <!--
 ## Other
 
@@ -68,6 +71,12 @@ _Do you have suggestions to add? [See how to contribute](#contributions)._
 - https://www.unog.ch/80256EE600585943/(httpPages)/4F0DEF093B4860B4C1257180004B1B30?OpenDocument
 
 ## Considerar adicionar esses tambem em breve
+
+- https://techethics.ieee.org/contact
+
+- https://www.ethicsnet.com/ (falta localização)
+
+- http://www.eismd.eu/ai4people/about/ (definir endereço de localização; talvez pegar da organização que hospeda o site)
 
 - https://intelligence.org/
 
@@ -81,6 +90,7 @@ _Do you have suggestions to add? [See how to contribute](#contributions)._
 
 ## Souces of info
 - https://en.wikipedia.org/wiki/Category:Ethics_organizations
+- https://en.wikipedia.org/wiki/Category:Artificial_intelligence_associations
 
 -->
 
