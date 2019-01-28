@@ -1,16 +1,23 @@
-# ais-ethics-orgs
-**[work-in-progress] Curated list of organizations related to Ethics of
+# A/IS Ethics Organizations
+
+![Banner: Organizations related to Ethics of Autonomous and Intelligent Systems (A/IS)](banner.png)
+
+[![Organizations](badges/orgs-total.svg)](#organizations) [![Africa](badges/orgs-africa.svg)](#africa)  [![Asia](badges/orgs-asia.svg)](#asia)  [![Europe](badges/orgs-europe.svg)](#europe)  [![North America](badges/orgs-north-america.svg)](#north-america) [![Oceania](badges/orgs-oceania.svg)](#oceania) [![South America](badges/orgs-south-america.svg)](#south-america) 
+
+---
+
+_**See also:
+[ais-ethics-open-groups](https://github.com/fititnt/ais-ethics-open-groups) |
+ais-ethics-orgs |
+[ais-ethics-standards](https://github.com/fititnt/ais-ethics-standards)**_
+
+---
+
+![Work in Progress](badges/status-work-in-progress.svg) **Curated list of organizations related to Ethics of
 Autonomous and Intelligent Systems (A/IS).** AI Ethics, Algorithmic Bias,
 Ethics of Automation, Existential Risks, Friendly Artificial Intelligence,
 Future of Work, Human Rights, Information Ethics, Machine Ethics, Philosophy
 of AI, Privacy, Roboethics, Robot Rights...
-
-![Banner: Organizations related to Ethics of Autonomous and Intelligent Systems (A/IS)](banner.png)
-
-_See also:
-[ais-ethics-open-groups](https://github.com/fititnt/ais-ethics-open-groups) |
-ais-ethics-orgs |
-[ais-ethics-standards](https://github.com/fititnt/ais-ethics-standards)_
 
 # Organizations
 
