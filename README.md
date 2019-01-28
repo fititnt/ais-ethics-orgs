@@ -1,9 +1,13 @@
 # ais-ethics-orgs
-**[work-in-progress] Curated list of organizations related to Ethics in
-Artificial Intelligence and Autonomous Systems (A/IS).**
+**[work-in-progress] Curated list of organizations related to Ethics of
+Autonomous and Intelligent Systems (A/IS).** AI Ethics, Algorithmic Bias,
+Ethics of Automation, Existential Risks, Friendly Artificial Intelligence,
+Future of Work, Human Rights, Information Ethics, Machine Ethics, Philosophy
+of AI, Privacy, Roboethics, Robot Rights...
+
+![Banner: Organizations related to Ethics of Autonomous and Intelligent Systems (A/IS)](banner.png)
 
 _See also:
-[ais-ethics](https://github.com/fititnt/ais-ethics) |
 [ais-ethics-open-groups](https://github.com/fititnt/ais-ethics-open-groups) |
 ais-ethics-orgs |
 [ais-ethics-standards](https://github.com/fititnt/ais-ethics-standards)_
@@ -91,6 +95,7 @@ _Do you have suggestions to add? [See how to contribute](#contributions)._
 ## Souces of info
 - https://en.wikipedia.org/wiki/Category:Ethics_organizations
 - https://en.wikipedia.org/wiki/Category:Artificial_intelligence_associations
+- https://en.wikipedia.org/wiki/Category:Computer_science_organizations
 
 -->
 
