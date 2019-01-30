@@ -82,14 +82,22 @@ _Do you have suggestions to add? [See how to contribute](#contributions)._
 ## Strategies to find A/IS ethics organizations
 This area explain some strategies to find other A/IS Ethics organizations. But
 keep in mind that:
-- Some strategies will return several false positives.
-  - Some can be more obvious and faster to find, but other will require you to
-    read a lot. And maybe in a language that you do not undestand without help.
-- Not all organizations are listed on wikipedia
-  - ... and not all on wikipedia are on the language you are looking for
-  - ... but Wikipedia can have several languages of the same page already liked! 😀
-    - (RTL) Look at the bottom left, in the area "Languages"
-    - (LTR) Look at the bottom left, in the area with a termi equivalent to "Languages"
+
+* Some strategies will return several false positives.
+  - Keep in mind that a different language (and even how websites are designed)
+    can make it harder, so be ready to take more time
+* Not all organizations are listed on wikipedia
+  - ... and the ones that are, maybe not in exact language you are looking for
+  - ... but Wikipedia can have several languages of the same page already interliked! 😀
+    - **See [FAQ:Wikipedia Interlanguage links](#wikipedia-interlanguage-links)**.
+      Pages with Category of articles in one language can have different
+      organizations on others. **Explicit warning: English does not have all organizations**.
+* If you have the name in the original language of a organization (or the terms
+  used by these groups of organizations), copy and paste these terms on some
+  search engine. **Explicit warning: English will not necessary show more results on search engines**.
+    - [ais-ethics-l10n](https://github.com/fititnt/ais-ethics-l10n) have a draft
+      of some key terms that could help with search engines and social networks
+      for organizations and groups.
 
 ### Artificial Intelligence associations
 Artificial intelligence associations _have a great chance_ of either themselves
@@ -146,8 +154,9 @@ or some of their extensions be also one A/IS Ethics organization.
 
 -->
 
+# Extra informations
 
-# Footnotes
+## Footnotes
 
 - <b id="review-lang">review-lang</b>: This term requires review of a native
   speaker or a official source that confirms. See  [ais-ethics-orgs/issues/1](https://github.com/fititnt/ais-ethics-orgs/issues/1)
@@ -155,15 +164,55 @@ or some of their extensions be also one A/IS Ethics organization.
   area of government or a university) and not focused on the organization cited
   on this document.
 
-# FAQ
+## FAQ
 
-- **Why the _name-of-the-organization_ is listed on a specific region and not as "international"?**
+### Why the _name-of-the-organization_ is listed on a specific region and not as "international"?
 
 The adress used is headquarters of the organization. The same organization may
 appear more than once if there is a _large_ enough branch on a different
 continent. [Suggestions of missing extra branches are welcome!](#contributions).
 
-- **Can I do ... with this list?**
+### Wikipedia Interlanguage links
+All links to wikipedia pages cited here very likely have links to versions of
+the same content (that can not be just a translation, but have different content).
+The Wikipedia help call they [Interlanguage links](https://en.wikipedia.org/wiki/Help:Interlanguage_links).
+
+#### Desktop access
+
+If you access wikipedia with the desktop view, is less obvious the alternatives
+in other languages.
+
+- (Left-to-right languages), look at the bottom left, in the area with a term equivalent to "Languages"
+- (Right-to-left languages) Look at the bottom right, in the area with a term equivalent to "Languages"
+
+The next images use as example wikipedia page of [Association for the Advancement of Artificial Intelligence](https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence)
+to switch to the persian page [انجمن پیشبرد هوش مصنوعی](https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AC%D9%85%D9%86_%D9%BE%DB%8C%D8%B4%D8%A8%D8%B1%D8%AF_%D9%87%D9%88%D8%B4_%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C);
+
+The next image shows the icon on 
+![wikipedia-language-desktop.png](img/wikipedia-language-desktop.png)
+
+#### Mobile access
+
+If you access wikipedia with the mobile view, the link to swich languages is one
+of the firsts after the page title.
+
+The next image shows the icon on Left-to-right languages.
+
+![wikipedia-language-mobile-english-icon.png](img/wikipedia-language-mobile-english-icon.png)
+
+The next image shows the icon on right-to-left languages.
+
+![wikipedia-language-mobile-persian-icon.png](img/wikipedia-language-mobile-persian-icon.png)
+
+The next image shows the menu with all languages available
+after any language switch is choosen on wikipedia
+mobile view.
+
+![wikipedia-language-mobile-english-list](img/wikipedia-language-mobile-english-list.png)
+
+
+
+### Can I do ... with this list?
 
 Yes, the [public domain](#license) license allow this, even without asking
 first if you can do or not. If is a improvement to this main list, see
