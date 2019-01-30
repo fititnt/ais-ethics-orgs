@@ -4,6 +4,8 @@
 
 [![Organizations](badges/orgs-total.svg)](#organizations) [![Africa](badges/orgs-africa.svg)](#africa)  [![Asia](badges/orgs-asia.svg)](#asia)  [![Europe](badges/orgs-europe.svg)](#europe)  [![North America](badges/orgs-north-america.svg)](#north-america) [![Oceania](badges/orgs-oceania.svg)](#oceania) [![South America](badges/orgs-south-america.svg)](#south-america) 
 
+[![Strategies to find A/IS ethics organizations](badges/other-strategies.svg)](#strategies-to-find-ais-ethics-organizations)
+
 ---
 
 _**See also:
@@ -75,6 +77,39 @@ _Do you have suggestions to add? [See how to contribute](#contributions)._
 ## South America
 
 _Do you have suggestions to add? [See how to contribute](#contributions)._
+
+# Other organizations
+## Strategies to find A/IS ethics organizations
+This area explain some strategies to find other A/IS Ethics organizations. But
+keep in mind that:
+- Some strategies will return several false positives.
+  - Some can be more obvious and faster to find, but other will require you to
+    read a lot. And maybe in a language that you do not undestand without help.
+- Not all organizations are listed on wikipedia
+  - ... and not all on wikipedia are on the language you are looking for
+  - ... but Wikipedia can have several languages of the same page already liked! 😀
+    - (RTL) Look at the bottom left, in the area "Languages"
+    - (LTR) Look at the bottom left, in the area with a termi equivalent to "Languages"
+
+### Artificial Intelligence associations
+Artificial intelligence associations _have a great chance_ of either themselves
+or some of their extensions be also one A/IS Ethics organization.
+
+- A good **starting** point is [Category:Artificial intelligence associations on Wikipedia (English)](https://en.wikipedia.org/wiki/Category:Artificial_intelligence_associations).
+
+### Computer science organizations
+
+Computer science organizations _sometimes have a chance_ of either themselves
+or some of their extensions be also one A/IS Ethics organization.
+
+- A good **starting** point is [Category:Computer science organizations on Wikipedia (English)](https://en.wikipedia.org/wiki/Category:Computer_science_organizations).
+
+### Ethics organizations
+
+Ethics organizations _sometimes have a chance_ of either themselves
+or some of their extensions be also one A/IS Ethics organization.
+
+- A good **starting** point is [Category:Ethics organization on Wikipedia (English)](https://en.wikipedia.org/wiki/Category:Ethics_organizations).
 
 <!--
 ## Other
