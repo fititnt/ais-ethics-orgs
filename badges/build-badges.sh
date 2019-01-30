@@ -17,4 +17,4 @@ python -m pybadges --left-text='Oceania' --right-text='Need your help!' --right-
 python -m pybadges --left-text='South America' --right-text='Need your help!' --right-color='#FF773D' > orgs-south-america.svg
 
 # Other badges
-python -m pybadges --left-text='Status' --right-text='Working in progress' --right-color='#FF773D' > status-work-in-progress.svg
+python -m pybadges --left-text='Status' --right-text='Work in progress' --right-color='#FF773D' > status-work-in-progress.svg

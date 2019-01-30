@@ -59,6 +59,7 @@ _Do you have suggestions to add? [See how to contribute](#contributions)._
 
 | Country | City | Formation | Field/Focus | Name |
 | --- | --- | --- | --- | --- |
+| USA | New York, NY | 2017-11-15 | Social Implications | **[AI Now Institute at NYU (AI Now)](https://ainowinstitute.org)** <br> _Extra: [Medium](https://medium.com/@AINowinstitute); [Twitter](https://twitter.com/ainowinstitute); [Youtube](https://www.youtube.com/AINowInstitute); [Wikipedia](https://en.wikipedia.org/wiki/AI_Now_Institute)_ |
 | USA | Palo Alto, CA | 1979 | | **[Association for the Advancement of Artificial Intelligence (AAAI)](http://www.aaai.org/)** <br> _Extra: [Facebook](https://www.facebook.com/AAAI-Association-for-the-Advancement-of-Artificial-Intelligence-36428078710/); [Twitter](https://twitter.com/RealAAAI); [Wikipedia](https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence)_ |
 | USA | Berkeley, CA | 2000 | Friendly Artificial Intelligence | **[Machine Intelligence Research Institute (MIRI)](https://intelligence.org/)** <br> _Extra: [Facebook](https://www.facebook.com/MachineIntelligenceResearchInstitute); [Twitter](https://twitter.com/MIRIBerkeley); [Wikipedia](https://en.wikipedia.org/wiki/Machine_Intelligence_Research_Institute)_ |
 | USA | San Francisco, CA | 2015-12-11 | Friendly Artificial Intelligence | **[OpenAI](https://openai.com/)** <br> _Extra: [Facebook](https://www.facebook.com/openai.research/); [Twitter](https://twitter.com/openai); [Wikipedia](https://en.wikipedia.org/wiki/OpenAI)_ |
@@ -82,6 +83,10 @@ _Do you have suggestions to add? [See how to contribute](#contributions)._
 - https://www.unog.ch/80256EE600585943/(httpPages)/4F0DEF093B4860B4C1257180004B1B30?OpenDocument
 
 ## Considerar adicionar esses tambem em breve
+
+- https://aiethicsinitiative.org
+- https://thecenter.mit.edu/
+- https://montrealethics.ai/
 
 - https://techethics.ieee.org/contact
 
